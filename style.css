@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border:double;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+button{
+  font-size: 25px;
+  border: inset;
+  height: 50px;
+  width: 100px;
+}
+
+input{
+  border: groove;
+  height: 50px;
+  width: 300px;
+  font-size: 50px;
+}
+h2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color: cornsilk;
+}
